@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhoopalsinhmusale
-- 👀 I’m interested in Software Development or Data Science Intern Roles 
+- 👀 I’m interested in Software Development | Data Science Intern Roles 
 - 🌱 I’m currently learning Deepl Learning
 - 📫 How to reach me through my email: bhoopalsinhmusale@gmail.com
 
