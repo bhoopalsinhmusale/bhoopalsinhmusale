@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhoopalsinhmusale
 - 👀 I’m a learner and developer
-- 🌱 I’m currently learning Deepl Learning
+- 🌱 I’m currently learning Microsoft Azure
 - 📫 How to reach me through my email: bhoopalsinhmusale@gmail.com
 
 <!---
