@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhoopalsinhmusale
 - 👀 I’m a learner and developer
-- 🌱 I’m currently learning Microsoft Azure
+- 🌱 I’m currently learning Microsoft Azure and ETL Development
 - 📫 How to reach me through my email: bhoopalsinhmusale@gmail.com
 
 <!---
